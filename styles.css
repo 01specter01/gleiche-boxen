@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+.Viereck-1 {
+    height: 75pt;
+    width: 75pt;
+    background-color: brown;
+}
+.container {
+    font-size: 5px;
+}
+.em {
+    height: 20em;
+    width: 20em;
+    background-color: lightgreen;
+}
+
+.container-prozent {
+    width: 5.3cm;
+    height: 2.76cm;
+    background-color: blue;
+}
+.prozent {
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+}
+
+.rem {
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: violet;
+}
+.pixel {
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+}
